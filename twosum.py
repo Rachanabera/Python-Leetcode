@@ -1,4 +1,4 @@
-nums = list(map(int,input("Enter the list of Numbers: ").split()))
+nums = list(map(int,input("Enter the Numbers: ").split()))
 target = int(input("Enter target variable : "))
 
 def twosum(nums,target):
